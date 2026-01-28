@@ -96,18 +96,9 @@
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
-          },
-          {
-            "id": "d54d00a4abf9277d",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,12 +181,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "dee994b140999ffb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -218,7 +219,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0367c6914f143ad6",
+  "active": "4bf03484cf94f2d8",
   "lastOpenFiles": [
     "files/Pasted image 20250531211116.png",
     "files/Pasted image 20260116180218.png",
