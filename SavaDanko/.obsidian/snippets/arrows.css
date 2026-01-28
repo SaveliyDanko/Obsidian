@@ -1,0 +1,24 @@
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting)::after {
+  content: attr(data-content);
+}
+
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting)[data-content*="->"]::after {
+  content: attr(data-content);
+  visibility: hidden;
+}
+
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting)[data-content*="->"] {
+  position: relative;
+}
+
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting)[data-content*="->"]::before {
+  content: attr(data-content);
+  visibility: visible;
+  position: absolute;
+  left: 0;
+}
+
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting)[data-content*="->"]::before {
+  content: "→";
+}
+

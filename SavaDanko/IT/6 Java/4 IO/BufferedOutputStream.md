@@ -1,0 +1,4 @@
+#java 
+
+---
+The class implements a buffered output stream. By setting up such an output stream, an application can write bytes to the underlying output stream without necessarily causing a call to the underlying system for each byte written.

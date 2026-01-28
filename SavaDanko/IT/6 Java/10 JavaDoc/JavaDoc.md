@@ -1,0 +1,16 @@
+
+---
+[[1 Identifiers]]
+[[7.5.3. Single-Static-Import Declarations]]
+[[8.1. Class Declarations]]
+[[8.1.1 Class Modifiers]]
+[[8.1.1.4. static Classes]]
+[[8.3.1.1. static Fields]]
+[[8.4.3.2. static Methods]]
+[[8.5 Member Class and Interface Declarations]]
+[[8.6 Instance Initializers]]
+[[8.7. Static Initializers]]
+[[8.9 Enum Classes]]
+[[8.9.1 Enum Constants]]
+[[8.9.2. Enum Body Declarations]]
+[[8.9.3. Enum Members]]

@@ -1,0 +1,2 @@
+Normal text
+*Italic Text*

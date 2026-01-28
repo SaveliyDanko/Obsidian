@@ -1,0 +1,1 @@
+prune - Remove unused images

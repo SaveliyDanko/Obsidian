@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"e1deffcedbe466cd","type":"file","file":"IT/22 Rust/rust install.md","x":-300,"y":-780,"width":280,"height":91},
+		{"id":"008614a7f41b10b5","type":"file","file":"IT/22 Rust/rustup.md","x":180,"y":-772,"width":245,"height":76},
+		{"id":"da74b7aab1fdc3a7","type":"file","file":"IT/22 Rust/rustc.md","x":640,"y":-772,"width":240,"height":77},
+		{"id":"f99ddd3cbbc51855","type":"file","file":"IT/22 Rust/cargo.md","x":1100,"y":-776,"width":220,"height":80},
+		{"id":"218fa79130f48566","type":"file","file":"IT/22 Rust/rustfmt.md","x":1500,"y":-775,"width":217,"height":83},
+		{"id":"26d0b6486ec03da6","type":"file","file":"IT/22 Rust/data types.md","x":-321,"y":-160,"width":282,"height":82},
+		{"id":"be77977d392254cd","type":"file","file":"IT/22 Rust/variables.md","x":-311,"y":-420,"width":261,"height":88},
+		{"id":"a0264f171796567e","type":"file","file":"IT/22 Rust/integer.md","x":180,"y":-160,"width":238,"height":82},
+		{"id":"c38a4fa60d2e8130","type":"file","file":"IT/22 Rust/Numeric Operations.md","x":380,"y":71,"width":317,"height":147},
+		{"id":"c959ed63bd908c7b","type":"file","file":"IT/22 Rust/float.md","x":697,"y":-160,"width":160,"height":82},
+		{"id":"2c0103b48d9313aa","type":"file","file":"IT/22 Rust/bool.md","x":1100,"y":-160,"width":160,"height":84},
+		{"id":"6810f05fbd62acbc","type":"file","file":"IT/22 Rust/char.md","x":1480,"y":-160,"width":171,"height":89},
+		{"id":"6d535141ea53184f","type":"file","file":"IT/22 Rust/tuple.md","x":1880,"y":-162,"width":186,"height":89},
+		{"id":"d8a3bb6b04a7fa38","type":"file","file":"IT/22 Rust/array.md","x":2300,"y":-162,"width":180,"height":89},
+		{"id":"ec8fe8aa2ac6eb22","type":"file","file":"IT/22 Rust/functions.md","x":-311,"y":480,"width":260,"height":88},
+		{"id":"3dda8dfedcdf3d53","type":"file","file":"IT/22 Rust/if-else.md","x":-281,"y":780,"width":200,"height":81},
+		{"id":"136ec8f8b38f5b77","x":-257,"y":1012,"width":154,"height":68,"type":"file","file":"IT/22 Rust/loop.md"}
+	],
+	"edges":[
+		{"id":"70d58875ee08f8e2","fromNode":"e1deffcedbe466cd","fromSide":"right","toNode":"008614a7f41b10b5","toSide":"left"},
+		{"id":"f67d79a838c29f0d","fromNode":"008614a7f41b10b5","fromSide":"right","toNode":"da74b7aab1fdc3a7","toSide":"left"},
+		{"id":"0e1ca024f14a7392","fromNode":"da74b7aab1fdc3a7","fromSide":"right","toNode":"f99ddd3cbbc51855","toSide":"left"},
+		{"id":"d2dd3314ccb092a4","fromNode":"f99ddd3cbbc51855","fromSide":"right","toNode":"218fa79130f48566","toSide":"left"},
+		{"id":"afc74946e8a5d720","fromNode":"be77977d392254cd","fromSide":"bottom","toNode":"26d0b6486ec03da6","toSide":"top"},
+		{"id":"4c1d2f88e7c6659b","fromNode":"26d0b6486ec03da6","fromSide":"bottom","toNode":"ec8fe8aa2ac6eb22","toSide":"top"},
+		{"id":"000f9c3b53dc85d9","fromNode":"26d0b6486ec03da6","fromSide":"right","toNode":"a0264f171796567e","toSide":"left"},
+		{"id":"444496af4b1c29f0","fromNode":"a0264f171796567e","fromSide":"right","toNode":"c959ed63bd908c7b","toSide":"left"},
+		{"id":"376607210c816004","fromNode":"a0264f171796567e","fromSide":"bottom","toNode":"c38a4fa60d2e8130","toSide":"top"},
+		{"id":"ff42e19285bfc591","fromNode":"c959ed63bd908c7b","fromSide":"bottom","toNode":"c38a4fa60d2e8130","toSide":"top"},
+		{"id":"4549736a7afa3d29","fromNode":"c959ed63bd908c7b","fromSide":"right","toNode":"2c0103b48d9313aa","toSide":"left"},
+		{"id":"38c79620e598050d","fromNode":"2c0103b48d9313aa","fromSide":"right","toNode":"6810f05fbd62acbc","toSide":"left"},
+		{"id":"b429153fc19b0294","fromNode":"6810f05fbd62acbc","fromSide":"right","toNode":"6d535141ea53184f","toSide":"left"},
+		{"id":"4814b59bca9c7084","fromNode":"6d535141ea53184f","fromSide":"right","toNode":"d8a3bb6b04a7fa38","toSide":"left"},
+		{"id":"19b6d57f5a4907a1","fromNode":"ec8fe8aa2ac6eb22","fromSide":"bottom","toNode":"3dda8dfedcdf3d53","toSide":"top"},
+		{"id":"a351a6002ca635e3","fromNode":"3dda8dfedcdf3d53","fromSide":"bottom","toNode":"136ec8f8b38f5b77","toSide":"top"}
+	]
+}

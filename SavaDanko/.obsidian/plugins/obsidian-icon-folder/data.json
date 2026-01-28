@@ -1,0 +1,151 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiBlender",
+      "🐪",
+      "CoMail",
+      "SiTailwindcss",
+      "SiReact"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "custom",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Excalidraw": {
+    "iconName": "SiExcalidraw",
+    "iconColor": "#ff0000"
+  },
+  "IT/1 Spring": {
+    "iconName": "SiSpring",
+    "iconColor": "#6daa3f"
+  },
+  "IT/1 Spring/AOP": {
+    "iconName": "FasAt",
+    "iconColor": "#8b4e2d"
+  },
+  "IT": {
+    "iconName": "LiComputer",
+    "iconColor": "#ffdd00"
+  },
+  "IT/2 git": {
+    "iconName": "SiGit",
+    "iconColor": "#ee513b"
+  },
+  "IT/3 Docker": {
+    "iconName": "SiDocker",
+    "iconColor": "#2396ed"
+  },
+  "IT/4 C++": {
+    "iconName": "SiC",
+    "iconColor": "#4ec2ca"
+  },
+  "IT/5 Groovy": {
+    "iconName": "SiApachegroovy",
+    "iconColor": "#4caec2"
+  },
+  "IT/6 Java": {
+    "iconName": "LiCoffee",
+    "iconColor": "#2e2bbf"
+  },
+  "IT/7 HTML": {
+    "iconName": "SiHtml5",
+    "iconColor": "#e44d1c"
+  },
+  "IT/8 CSS": {
+    "iconName": "SiCss3",
+    "iconColor": "#1172b8"
+  },
+  "IT/9 Gradle": {
+    "iconName": "SiGradle",
+    "iconColor": "#044453"
+  },
+  "IT/10 SQL": {
+    "iconName": "SiPostgresql",
+    "iconColor": "#336791"
+  },
+  "IT/11 JUnit": {
+    "iconName": "SiJunit5",
+    "iconColor": "#dd514a"
+  },
+  "IT/12 Linux": "SiLinux",
+  "IT/13 Obsidian": {
+    "iconName": "SiObsidian",
+    "iconColor": "#875eda"
+  },
+  "IT/14 python": {
+    "iconName": "SiPython",
+    "iconColor": "#fcdf5a"
+  },
+  "IT/15 Алгоритмы": "SiThealgorithms",
+  "IT/16 Kafka": "SiApachekafka",
+  "IT/17 SOLID": {
+    "iconName": "SiSolidity",
+    "iconColor": "#0fdbd8"
+  },
+  "IT/18 COA": {
+    "iconName": "SiOpensourcehardware",
+    "iconColor": "#025c00"
+  },
+  "IT/20 curl": "SiCurl",
+  "Math": {
+    "iconName": "RiNumbersFill",
+    "iconColor": "#3d2eb2"
+  },
+  "Main": "CoMainComponent",
+  "Physic": {
+    "iconName": "FasAtom",
+    "iconColor": "#d051d2"
+  },
+  "English": "🇬🇧",
+  "IT/22 Rust": {
+    "iconName": "SiRust",
+    "iconColor": "#c01111"
+  },
+  "IT/23 bash": {
+    "iconName": "SiGnubash",
+    "iconColor": "#ff8800"
+  },
+  "IT/24 JavaScript": {
+    "iconName": "SiJavascript",
+    "iconColor": "#f7df1e"
+  },
+  "IT/25 Web": "SiWebtrees",
+  "IT/26 Jenkins": {
+    "iconName": "SiJenkins",
+    "iconColor": "#da6110"
+  },
+  "IT/27 Ansible": "SiAnsible",
+  "IT/1 Spring/Hibernate and JPA": {
+    "iconName": "SiHibernate",
+    "iconColor": "#bcae79"
+  },
+  "IT/30 React": "SiReact",
+  "IT/29 TypeScript": "SiTypescript",
+  "IT/31 Tailwind": "SiTailwindcss",
+  "IT/1 Spring/Mail": "CoMail",
+  "IT/Camel": "🐪",
+  "IT/32 Blender": "SiBlender"
+}

@@ -1,0 +1,13 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "SavaDankoTheme",
+  "baseFontSize": 22,
+  "interfaceFontFamily": "Times New Roman",
+  "textFontFamily": "Times New Roman",
+  "monospaceFontFamily": "Times New Roman",
+  "enabledCssSnippets": [],
+  "accentColor": "#3c68af",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "showRibbon": true
+}

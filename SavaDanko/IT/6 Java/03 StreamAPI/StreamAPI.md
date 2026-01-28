@@ -1,0 +1,5 @@
+
+---
+[[Functional Interface]]
+[[Consumer]]
+[[Supplier]]

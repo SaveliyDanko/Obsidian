@@ -1,0 +1,131 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "VF7R8oe6Ma3YKBtdy3n8w",
+      "name": "Green",
+      "value": "#37c125"
+    },
+    {
+      "id": "glfuGhCyANj1cULKdD4m8",
+      "name": "Red",
+      "value": "#c52020"
+    },
+    {
+      "id": "qOp6-Y_bBJO-mthjJ7QCb",
+      "name": "pink",
+      "value": "#9a4fb5"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Physic/Physic.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Exam.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Закон Кулона.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Измерение напряжения и силы тока.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Напряженность поля неточечных зарядов.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Напряжённость электрического поля.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Однородное и неоднородное поле.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Последовательное и параллельное соединение проводников.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Потенциал.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Поток вектора напряженности электрического поля.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Поток жидкости.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Работа электрического поля. Потенциал.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Сила тока.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Сопротивление.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Теорема Гаусса.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Частица.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Электрический заряд.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Теория дальнодействия и Теория близкодействия.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Принцип Суперпозиции Полей.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Силовые линии электрического поля.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Проводник.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Плоский конденсатор.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Ионный ветер.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Проводник в электрическом поле.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Ионы.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "Physic/Диэлектрик в электростатическом поле.md",
+      "color": "qOp6-Y_bBJO-mthjJ7QCb"
+    },
+    {
+      "path": "IT/Nexign",
+      "color": "VF7R8oe6Ma3YKBtdy3n8w"
+    }
+  ]
+}

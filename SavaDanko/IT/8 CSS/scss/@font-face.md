@@ -1,0 +1,20 @@
+###### **`@font-face` — подключение шрифтов (CSS)**
+Позволяет подключить кастомный шрифт (локальный или с сервера). Это CSS-директива, не зависящая от SCSS, но может использоваться внутри SCSS-файлов.
+
+###### **Пример:**
+```scss
+@font-face {
+  font-family: 'Open Sans';
+  src: url('/fonts/OpenSans-Regular.woff2') format('woff2'),
+       url('/fonts/OpenSans-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+```
+
+Использование:
+```scss
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+```

@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "f29f306e1513497d",
+    "type": "split",
+    "children": [
+      {
+        "id": "217c4cfb9ec9b0b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cb5a13f44eaa9b8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "4bf03484cf94f2d8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84ca3469871fe5f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "32b36aa1fcef19f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0367c6914f143ad6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e0ec216e1f73737",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "116c1113b8a5ff66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ec7a159433d1496d",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "d54d00a4abf9277d",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "29da6f429b8d673e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b82209db5416fce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abe4fed6909e3b30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IT/11 JUnit/20 Parameterized Tests.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20 Parameterized Tests"
+            }
+          },
+          {
+            "id": "00ae03c23e33cce3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IT/6 Java/01 Java Core/Static.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Static"
+            }
+          },
+          {
+            "id": "a03c30b52eabd2a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54ea1b2123e61992",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tasks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tasks"
+            }
+          },
+          {
+            "id": "dc7258826af2a38a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "0367c6914f143ad6",
+  "lastOpenFiles": [
+    "files/Pasted image 20250531211116.png",
+    "files/Pasted image 20260116180218.png",
+    "files/Pasted image 20260116180530.png",
+    "files/Pasted image 20260116180738.png",
+    "files/Pasted image 20260116180915.png",
+    "files/Pasted image 20260120130615.png",
+    "files/Pasted image 20260120130644.png",
+    "files/Pasted image 20260120130650.png",
+    "files/pub_sub.png",
+    "files/SEDA_pipelines.png",
+    "files/Simultaneous.png",
+    "files/Диэлектрик в электростатическом поле 2025-05-26 22.14.11.excalidraw.md",
+    "Main/Visual.md",
+    "Physic/Теорема Гаусса.md",
+    "IT/18 COA/80 Динамическая взаимоблокировка (Deadlock).md",
+    "English/Grammar/2 Present Simple.md",
+    "English/Grammar/100 Third Conditional.md",
+    "English/Grammar/4 Present Perfect Contisuous.md",
+    "English/Grammar/3 Present Perfect Simple.md",
+    "IT/18 COA/79 Deadlock.md",
+    "IT/18 COA/75 User-level threads.md",
+    "IT/1 Spring/validating/7 @NotNull.md",
+    "IT/18 COA/74 Multithreading.md",
+    "IT/1 Spring/lombok/8 @EqualsAndHashCode.md",
+    "IT/31 Tailwind/states/has.md",
+    "Tasks.md",
+    "IT/1 Spring/validating/6 @NotEmpty.md",
+    "IT/1 Spring/validating/5 @NotBlank.md",
+    "IT/1 Spring/validating/4 @Min and @Max.md",
+    "IT/1 Spring/validating/3 @Email.md",
+    "IT/1 Spring/validating/2 @Digit.md",
+    "IT/1 Spring/validating",
+    "IT/1 Spring/Spring Core/5 XML Configuration.md",
+    "IT/18 COA/19 Out-of-Order execution (OoO).md",
+    "IT/18 COA/12 Микроархитектура.md",
+    "IT/11 JUnit/16 assertTimeout.md",
+    "IT/18 COA/41 Функуии ОС.md",
+    "IT/6 Java/01 Java Core/Untitled.base",
+    "IT/33 C",
+    "Main/ITMO/ОСИ",
+    "IT/6 Java/Java.canvas",
+    "IT/3 Docker/Docker.canvas",
+    "IT/1 Spring/Caffeine",
+    "IT/6 Java/12 Jackson",
+    "Untitled",
+    "IT/32 Blender",
+    "IT/Camel",
+    "IT/31 Tailwind/flex and grid",
+    "IT/24 JavaScript/JavaScript.canvas",
+    "Main/4 Web/Untitled.canvas",
+    "Main/4 Web/Work.canvas",
+    "IT/12 Linux/Linux.canvas",
+    "IT/8 CSS/scss/scss.canvas",
+    "IT/100 Modula/core-processor/Untitled.canvas",
+    "IT/25 Web/web.canvas",
+    "IT/22 Rust/Rust.canvas"
+  ]
+}

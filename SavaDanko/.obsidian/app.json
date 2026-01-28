@@ -1,0 +1,25 @@
+{
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 50
+  },
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "files",
+  "focusNewTab": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "showUnsupportedFiles": false,
+  "showInlineTitle": true,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "spellcheck": false
+}
